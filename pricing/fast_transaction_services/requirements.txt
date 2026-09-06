@@ -1,0 +1,9 @@
+# Core (required to run the case study)
+numpy
+pandas
+matplotlib
+
+# Optional — used only if you extend the notebooks/modules
+scikit-learn
+scipy
+statsmodels
